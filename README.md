@@ -1,5 +1,6 @@
 # Welcome to 11ty-template 👋
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: GPL3](https://img.shields.io/badge/License-GPL3-yellow.svg)](/LICENSE)
 [![Twitter: \_Edo\_](https://img.shields.io/twitter/follow/\_Edo\_.svg?style=social)](https://twitter.com/\_Edo\_)
 
