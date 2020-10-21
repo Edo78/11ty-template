@@ -1,6 +1,6 @@
 {
   "name": "11ty-template",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "My Eleventy template for Netlify",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,12 @@
     "watch": "eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Federico 'Edo' Granata",
+    "email": "federico.granata.dev@gmail.com",
+    "url": "https://federicogranata.dev"
+  },
+  "license": "GPL3",
   "dependencies": {
     "@11ty/eleventy": "0.11.0"
   },
