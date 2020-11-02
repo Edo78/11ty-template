@@ -8,6 +8,10 @@
 
 This template is a clean start for an Eleventy website to be deployed to Netlify.
 
+## WARNING
+
+This template is still in a very early beta stage. Breaking changes will not be reported with a new major version till the first release.
+
 It has just a few feature like:
 * a `robots.txt` file and a `<meta name="robots">` dynamically adjusted 
 * a `<meta name="generator">` popolated with the actual Eleventy version used on the project
