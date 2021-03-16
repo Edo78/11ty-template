@@ -16,7 +16,7 @@ This template is still in a very early beta stage. Breaking changes will not be 
 
 It has just a few feature like:
 * a `robots.txt` file and a `<meta name="robots">` dynamically adjusted 
-* a collection is automatically created for each folder in 'src'
+* a collection is automatically created for each folder in `src` that doesn't start with `_`
 * a `<meta name="generator">` popolated with the actual Eleventy version used on the project
 * a dynamic `sitemap.xml`
 
