@@ -15,14 +15,14 @@
   },
   "license": "GPL3",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.1"
+    "@11ty/eleventy": "^0.12.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "cz-conventional-changelog": "^3.3.0",
-    "date-fns": "^2.16.1",
-    "husky": "^4.3.7",
+    "date-fns": "^2.19.0",
+    "husky": "^4.3.8",
     "pug": ">=3.0.1"
   },
   "config": {
